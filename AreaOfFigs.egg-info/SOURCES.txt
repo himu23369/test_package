@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+AreaOfFigs.egg-info/PKG-INFO
+AreaOfFigs.egg-info/SOURCES.txt
+AreaOfFigs.egg-info/dependency_links.txt
+AreaOfFigs.egg-info/top_level.txt
+first_package/Area_Fig.py
+first_package/__init__.py
